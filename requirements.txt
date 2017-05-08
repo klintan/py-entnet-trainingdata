@@ -1,0 +1,6 @@
+simplejson
+requests
+urllib
+nltk
+fuzzywuzzy
+python-Levenshtein
