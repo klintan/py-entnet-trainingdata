@@ -5,3 +5,5 @@ bin
 include
 training_data_1_supported_fact.txt
 pip-selfcheck.json
+test_data_entity.txt
+train_data_entity.txt
